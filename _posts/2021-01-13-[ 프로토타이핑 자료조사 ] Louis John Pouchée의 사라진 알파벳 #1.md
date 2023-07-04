@@ -1,5 +1,6 @@
 ---
 title:  "[ 프로토타이핑 자료조사 ] Louis John Pouchée의 사라진 알파벳 #1"
+categories: Prototyping
 ---
 
 1. Louis John Pouchée
