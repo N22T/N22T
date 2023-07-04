@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nit"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "등잔밑에서 꿈꾸는 세상은 얼마나 아름다운가"
+  location         : "Gold Coast"
+  email            : "slxmcat@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
