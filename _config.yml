@@ -8,7 +8,6 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -105,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Nit"
-  avatar           : scr = "./assets/images/neetlogo.png"
+  avatar           : 
   bio              : "등잔밑에서 꿈꾸는 세상은 얼마나 아름다운가"
   location         : "Gold Coast"
   email            : "slxmcat@protonmail.com"
