@@ -29,5 +29,5 @@ title:  "[ 프로토타이핑 자료조사 ] Louis John Pouchée의 사라진 �
 
 
 출처 : 
-||https://www.typeroom.eu/article/louis-john-pouch-e-s-lost-alphabets-are-most-beautiful-types-ever||
-||https://jamieclarketype.com/||
+|| https://www.typeroom.eu/article/louis-john-pouch-e-s-lost-alphabets-are-most-beautiful-types-ever ||
+|| https://jamieclarketype.com/ ||
