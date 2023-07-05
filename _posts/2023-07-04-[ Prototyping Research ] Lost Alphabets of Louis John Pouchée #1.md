@@ -1,6 +1,6 @@
 ---
 title:  "[ Prototyping Research ] Lost Alphabets of Louis John Pouchée #1"
-categories: Prototyping
+categories: Prototyping, English
 ---
 
 1. Louis John Pouchée`(1782-1845), an English type foundry, founded a London type foundry in 1818, employed skilled typographers, and sold his type below market prices. So Louis John Pouchée's type was produced in the early 19th century.`
