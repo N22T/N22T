@@ -38,9 +38,11 @@ Nurture의 **의미와 서사**는 무엇인가?
 `“Nurture”의 첫번째 트랙인 lifelike 은 아주 기본적인 사운드로 구성된 보컬이 없는 악기음악 이다. “Nurture”는 우리에게 익숙하고 자연스러운 사운드로 조심스럽게 다가온다. 두번째 트랙 Look at the sky 에서 Porter robinson 은 자신의 결단력과 희망을 보여준다. `
 
 >Look at the sky, I'm still here
+
 `"Look at the sky, I'm still here" and "I'll be alive next year" 같은 가사의 반복은 많은 도전과 실패에도 불구하고 포기하지 않고 긍정적으로 앞으로 나아갈 자신을 보여준다. ﻿첫번째 대사인 "Is it fate? If it's not easy, it must not be," 에서는 가치있는 일을 하기 위해서 노력과 인내가 따른다는 내용을 담고 있으며 진행됨에 따라 Porter robinson은 가사에서 자신의 자신감과 확신을 드러낸다. 개인의 성취를 달성하고 긍정적인 결과를 가져오기 위해 장애물들을 극복해내는 인내의 메세지를 전달한다. ﻿ 이내 트랙리스트는 점점 사색적으로 분위기가 바뀌어간다. get you wish에서 아티스트는 일을 바로 잡고자하는 욕구를 표현하지만,"But it's no use, you said."라는 말로 자신이 저항에 부딪히고 있음을 나타낸다. 하지만 이러한 경험이 궁극적으로 자신의 성장에 기어할수 있음을 시사한다. ﻿`
 
 >you were the aftermath of every judgment
+
 `Mirror의 가사를 더 자세하게 들여다본다면, "you were the aftermath of every judgment”,”I know what you want from me", "I know what you're thinking," 와 같이 반복되는 말은 자기 인식과 타인의 기대나 판단을 이해하는 감정을 드러낸다. "And it's not the voice of all the others, You've only said it to yourself"라는 대사는 표현되는 생각과 비판이 외부가 아닌 내부라는 개념을 확신하기 때문이다. ﻿ 앨범의 후반으로 진행될수록 다시 분위기는 점점 편하고 밝아지며, 곡의 분위기는 에너지가 넘치고 경쾌하며 밝은 분위기로 변해갑니다. Blossom의 가사중 "You've taken me with you"라는 구절은 자신의 성장에 결국 모든 경험이 포함된다는 뜻을 내포한다. 가사가 진행될수록 시간을 늦춰 타인을 고통에서 구하고 싶은 마음과 자신도 보호받고 고통에서 벗어나 완벽한 세상을 만들고 싶은 마음을 반영한다. ﻿하지만 가사를 포함에 앨범 전체애 대한 해석은 개인의 관점과 경험에 따라 달라질 수 있다. `
 
 ![image](https://preview.redd.it/bcadiycmcvl41.png?width=1280&format=png&auto=webp&s=21ca9391637425dccd0e0661be7b67ea6f0cd070)
