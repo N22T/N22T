@@ -3,7 +3,7 @@ title:  "[ Prototyping Research ] Lost Alphabets of Louis John Pouchée #1"
 categories: Prototyping English
 ---
 
-`Assessment content Practice-based work (30%): In-class design and prototyping work documented through weekly reflections. Investigate Louis John Pouchée's alphabet and create a 1 minute 45 second motion graphic'
+`Assessment content Practice-based work (30%): In-class design and prototyping work documented through weekly reflections. Investigate Louis John Pouchée's alphabet and create a 1 minute 45 second motion graphic`
 
 ![image](https://photos1.blogger.com/blogger/888/2073/1600/RdR%2014e%20punches%20sh.0.jpg)
 
