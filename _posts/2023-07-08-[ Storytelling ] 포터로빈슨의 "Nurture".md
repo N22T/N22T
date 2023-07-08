@@ -30,6 +30,6 @@ Mirror의 가사를 더 자세하게 들여다본다면, "you were the aftermath
 Porter Robinson은 “Nurture”를 통해 개인적이고 내부 성찰적인 가사와 누구나 공감할수 있는 주제들을 비유해 청취자의 감정과 교감합니다. 아티스트가 취약한 경험과 감정들을 공유함으로서 진정성있는 분위기를 조성하고 자기발견, 개인적인 성장, 행복과 목적을 추구하는 보편적인 주제로 스토리 텔링하여 단계적으로 공감하고 비슷한 어려움과 고민이있는 사람에게 유대감을 형성할 수 있도록 제작되었습니다.
 
 참고자료:
-https://genius.com/albums/Porter-robinson/Nurture
-https://www.wonderlandmagazine.com/2021/04/23/new-noise-porter-robinson-albumnurture/
-https://hbr.org/2003/06/storytelling-that-moves-people
+[Genius](https://genius.com/albums/Porter-robinson/Nurture)
+["New Noise: Porter Robinson." Wonderland Magazine](https://www.wonderlandmagazine.com/2021/04/23/new-noise-porter-robinson-albumnurture/)
+[Annette Simmons (2003). "Storytelling That Moves People." Harvard Business Review](https://hbr.org/2003/06/storytelling-that-moves-people)
