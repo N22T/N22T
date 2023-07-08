@@ -28,6 +28,6 @@ Fat Face 서체의 대중화
 `오늘날 디지털 세계에 James Clark에 의해 재출판된 Pouchée의 알파벳은 원작 재현에도 충실하며 그래픽 디자인에 조화롭게 어울러진다. Pouchee의 글꼴은 시대를 초월한 아름다움과 세대를 초월한 독창성을 보여주면서 영감의 원천이 되었다.`
 
 
-출처 : 
+참고자료 : 
 || https://www.typeroom.eu/article/louis-john-pouch-e-s-lost-alphabets-are-most-beautiful-types-ever ||
 || https://jamieclarketype.com/ ||
