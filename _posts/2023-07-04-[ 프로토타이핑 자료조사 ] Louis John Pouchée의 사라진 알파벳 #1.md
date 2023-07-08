@@ -3,9 +3,15 @@ title:  "[ 프로토타이핑 자료조사 ] Louis John Pouchée의 사라진 �
 categories: Prototyping Korean
 ---
 
+`평가 내용 실습 기반 작업(30%): 주간 반영을 통해 문서화된 수업 내 디자인 및 프로토타이핑 작업. Louis John Pouchée의 알파벳에 대하여 조사하고 1분 45초 길이의 모션 그래픽 제작`
+
+![image](https://photos1.blogger.com/blogger/888/2073/1600/RdR%2014e%20punches%20sh.0.jpg)
+
 Louis John Pouchée
 
 `Louis John Pouchée (1782-1845)는 영국의 활자 주조사로 1818년 런던 활자 주조 공장을 설립하고 숙련된 타이포 그래퍼들을 고용하여 자신이 디자인한 활자를 당시 시세보다 저렴하게 판매했다. 그렇게 Louis John Pouchée의 활자는 19세기 초에 생산 되었다.`
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Elephant_sample.png/1200px-Elephant_sample.png)
 
 Fat Face 서체의 대중화
 
@@ -14,6 +20,8 @@ Fat Face 서체의 대중화
 화재와 알파벳의 소실
 
 `그의 이야기엔 수상한 것이 하나 있다. 그것은 바로 1936년 런던 사무실에서 발생한 화재이다. 화재로 인하여 Louis John Pouchée의 알파벳이 전부 소실된 것으로 알려져 있으며, 당시 화재의 원인은 명확히 밝혀지지 않았다. 3톤의 펀치와 회양목에 새겨진 23개의 알파벳을 포함한 컬렉션이 소실되었고 그것이 대중앞에 다시 돌아오기까지 30년이라는 시간이 걸렸다.`
+
+![image](https://www.typeroom.eu/assets/original/photographs/article/835/201504/photo.jpg)
 
 알파벳의 복원과 보존
 
@@ -29,5 +37,5 @@ Fat Face 서체의 대중화
 
 
 참고자료 : 
-|| https://www.typeroom.eu/article/louis-john-pouch-e-s-lost-alphabets-are-most-beautiful-types-ever ||
-|| https://jamieclarketype.com/ ||
+[Louis John Pouché’s Lost Alphabets Are the Most Beautiful Types Ever -  TypeRoom](https://www.typeroom.eu/article/louis-john-pouch-e-s-lost-alphabets-are-most-beautiful-types-ever)
+[Jamie Clarke Type](https://jamieclarketype.com/)
