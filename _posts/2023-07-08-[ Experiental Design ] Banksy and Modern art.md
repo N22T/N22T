@@ -14,3 +14,6 @@ A faceless painter, Banksy's works that cross the line between crime and art are
 A man throwing a bouquet of flowers instead of a Molotov cocktail, a reporter filming a bleeding child in a war-torn home, and adults watching, Mickey Mouse holding the arm of a girl crying during the Vietnam War. It crosses fields such as politics and contains criticism of authoritative society and the world of art.
 
 Banksy's work breaks down the notions we have about art and society and helps us find our own answers within them. Like a picture of Kia wearing a Burger King hat, a symbol of fast food, and a picture of a girl hugging a weapon of war and making a lovely expression, it expresses a critical meaning by combining two symbolically contrasting things.
+
+Reference:
+https://artsandculture.google.com/story/gwWhW17vbvl3JA
