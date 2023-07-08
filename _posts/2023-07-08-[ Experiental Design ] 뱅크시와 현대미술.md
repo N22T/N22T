@@ -2,6 +2,7 @@
 title:  "[ Experiental Design ] 뱅크시와 현대미술"
 categories: Experiental-Design Korean
 ---
+![image](/assets/postimg/Banksy_experiencemap.png)
 
 근대 미술과 현대 미술은 시간으로 구분된다. 예술사학자와 비평가들은 1960년대와 70년대 사이 추상적 표현주의 흐름이 늘어난 시점을 그 분기점이라고 말한다.
 
